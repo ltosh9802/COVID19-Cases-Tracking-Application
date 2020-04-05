@@ -1,4 +1,4 @@
-# coronatracker
+# COVID-19 (Novel Coronavirus) Cases Tracking Application Using Flutter
 
 A new Flutter project.
 
