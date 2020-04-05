@@ -3,14 +3,10 @@
 A new Flutter project.
 
 ## Snapshots:
-<img src="/images/img1.jpeg" width="320" height=480">
-<img src="/images/img2.jpeg" width="320" height=480">
-<img src="/images/img3.jpeg" width="320" height=480">
-                                                    
-![Image of ]()
-![Image of](/images/img2.jpeg)
-![Image](/images/img3.jpeg)
-
+<img src='images/img1.jpeg' width='320' height='480'>
+<img src="images/img2.jpeg" width="320" height='480'>
+<img src="images/img3.jpeg" width="320" height='480'>
+      
 ## Getting Started
 
 This project is a starting point for a Flutter application.
